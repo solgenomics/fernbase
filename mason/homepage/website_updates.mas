@@ -8,7 +8,7 @@
     The module does not require any parameters. If the file read does not succeed, an error message is displayed.
     
     =head1 AUTHOR
-    
+    Prashant Hosmani <psh65 at cornell dot edu>
     Surya Saha <ss2489 at cornell dot edu>
 =cut
 </%doc>
@@ -17,7 +17,7 @@
     use File::Spec;
     use CXGN::Tools::File;
     
-    my $contents = "Website updates not available at the moment.<br /><br />";
+#    my $contents = "Website updates not available at the moment.<br /><br />";
     
     eval {
     
