@@ -17,7 +17,7 @@
     use File::Spec;
     use CXGN::Tools::File;
     
-#    my $contents = "Website updates not available at the moment.<br /><br />";
+    my $contents = "Website updates not available at the moment.<br /><br />";
     
     eval {
     
