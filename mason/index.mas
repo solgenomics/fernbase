@@ -1,15 +1,8 @@
 <%args>
-$schema
-$static_content_path => undef
-$show_accept_dialog => undef
+    $schema
 </%args>
-
-<center>
-<br />
-<h1>Welcome to FernBase!</h1>
-<br />
-<br />
-</center>
+<& homepage/carousel.mas &>
+<br>
 
 <div class="container-fluid">
   <div class="row">
