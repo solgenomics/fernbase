@@ -2,8 +2,8 @@
     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Analyze</a>
     <ul class="dropdown-menu">
         <li class="dropdown-header">JBrowse</li>
-        <li><a href="/jbrowse_fernbase/?data=data/json/Azolla_filiculoides"><i>Azolla filiculoides</i></a></li>
-        <li><a href="/jbrowse_fernbase/?data=data/json/Salvinia_cucullata"><i>Salvinia cucullata</i></a></li>
+        <li><a href="/jbrowse_fernbase/?data=data/json/Azolla_asm_v1.1"><i>Azolla filiculoides</i></a></li>
+        <li><a href="/jbrowse_fernbase/?data=data/json/Salvinia_asm_v1.2"><i>Salvinia cucullata</i></a></li>
         <li role="separator" class="divider"></li>
         <li class="dropdown-header">Blast</li>
         <li><a href="/tools/blast?db_id=27"><i>Azolla filiculoides</i></a></li>
