@@ -33,8 +33,8 @@
         
           <div class="carousel-sgn-links">
             <ul class="sgn_sm_list">
-                  <li><a href="/jbrowse_fernbase/?data=data/json/Azolla_filiculoides">Browse the <i>Azolla filiculoides</i> genome</a></li>
-                  <li><a href="/tools/blast?db_id=27">Blast using <i>Azolla filiculoides</i> databases</a></li>
+                  <li><a href="/jbrowse_fernbase/?data=data/json/Azolla_asm_v1.1">Browse the <i>Azolla filiculoides</i> genome</a></li>
+                  <li><a href="/tools/blast?db_id=34">Blast using <i>Azolla filiculoides</i> databases</a></li>
             </ul>
           </div>
         </div>
@@ -50,8 +50,8 @@
         </div>
         <div class="carousel-sgn-links">
           <ul class="sgn_sm_list">
-            <li><a href="/jbrowse_fernbase/?data=data/json/Salvinia_cucullata">Browse the <i>Salvinia cucullata</i> genome</a></li>
-            <li><a href="/tools/blast?db_id=30">Blast using <i>Salvinia cucullata</i> databases</a></li>
+            <li><a href="/jbrowse_fernbase/?data=data/json/Salvinia_asm_v1.2">Browse the <i>Salvinia cucullata</i> genome</a></li>
+            <li><a href="/tools/blast?db_id=38">Blast using <i>Salvinia cucullata</i> databases</a></li>
           </ul>
         </div>
         
