@@ -12,6 +12,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <& toolbar/analyze.mas &>
+        <& toolbar/symbionts.mas &>
         <& toolbar/about.mas &>
       </ul>
       <ul class="nav navbar-nav navbar-right">
