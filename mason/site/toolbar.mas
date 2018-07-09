@@ -13,6 +13,7 @@
       <ul class="nav navbar-nav">
         <& toolbar/analyze.mas &>
         <& toolbar/symbionts.mas &>
+        <li><a href="ftp://ftp.fernbase.org">Data Download</a></li>
         <& toolbar/about.mas &>
       </ul>
       <ul class="nav navbar-nav navbar-right">
