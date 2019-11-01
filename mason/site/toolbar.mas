@@ -12,6 +12,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <& toolbar/analyze.mas &>
+        <li><a href="https://fern-test.sgn.cornell.edu/">Lycophyte genomes</a></li>
         <& toolbar/symbionts.mas &>
         <li><a href="ftp://ftp.fernbase.org">Data Download</a></li>
         <& toolbar/about.mas &>
