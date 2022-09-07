@@ -14,7 +14,7 @@
         <& toolbar/analyze.mas &>
         <li><a href="https://lycophyte.sgn.cornell.edu/">Lycophyte genomes</a></li>
         <& toolbar/symbionts.mas &>
-        <li><a href="ftp://ftp.fernbase.org">Data Download</a></li>
+        <li><a href="/ftp">Data Download</a></li>
         <& toolbar/about.mas &>
       </ul>
       <ul class="nav navbar-nav navbar-right">

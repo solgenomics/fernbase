@@ -6,6 +6,9 @@
 <!--    <li role="separator" class="divider"></li>
     <li><a href="https://twitter.com/solgenomics">Twitter</a></li> -->
     <li role="separator" class="divider"></li>
-    <li><a href="ftp://ftp.fernbase.org">FTP</a></li>
+
+    <li><a href="/search/people">Search Users</li>
+    <li role="separator" class="divider"></li>	    
+    <li><a href="https://fernbase.org/ftp">FTP</a></li>
   </ul>
 </li>
