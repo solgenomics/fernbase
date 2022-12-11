@@ -2,7 +2,7 @@
     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Lycophyte genomes</a>
     <ul class="dropdown-menu">
         <li class="dropdown-header">JBrowse</li>
-
+	<li><a href="/jbrowse_fernbase/?data=data/json/Isoetes_taiwanensis"><i>Isoetes taiwanensis</i></a></li>
 	<li class="dropdown-header">Blast</li>
 	    	<li><a href="/tools/blast?db_id=72"><i>Isoetes taiwanensis</i></a></li>
     </ul>
