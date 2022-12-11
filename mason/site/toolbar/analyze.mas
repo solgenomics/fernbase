@@ -4,6 +4,10 @@
         <li class="dropdown-header">JBrowse</li>
         <li><a href="/jbrowse_fernbase/?data=data/json/Azolla_asm_v1.1"><i>Azolla filiculoides</i></a></li>
         <li><a href="/jbrowse_fernbase/?data=data/json/Salvinia_asm_v1.2"><i>Salvinia cucullata</i></a></li>
+	<li><a href="/jbrowse_fernbase/?data=data/json/Adiantum_capillus"><i>Adiantum capillus</i></a></li>
+	<li><a href="/jbrowse_fernbase/?data=data/json/Alsophila_spinulosa"><i>Alsophina spinulosa</i></a></li>
+	<li><a href="/jbrowse_fernbase/?data=data/json/Ceratopteris_richardii"><i>Ceratopteris richardii</i></a></li>
+	<li><a href="/jbrowse_fernbase/?data=data/json/Marsilea_vestita"><i>Marsilea vestita</i></a></li>
         <li role="separator" class="divider"></li>
         <li class="dropdown-header">Blast</li>
 	<li><a href="/tools/blast?db_id=56"><i>Adiantum capillus</i></a></li>
