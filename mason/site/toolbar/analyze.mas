@@ -16,6 +16,12 @@
 	<li><a href="/tools/blast?db_id=64"><i>Ceratopteris richardii</i></a></li>
 	<li><a href="/tools/blast?db_id=68"><i>Marsilea vestita</i></a></li>
         <li><a href="/tools/blast?db_id=38"><i>Salvinia cucullata</i></a></li>
+	<li><a href="/tools/blast?db_id=79"><i>Azolla caroliana</i></a></li>
+	<li><a href="/tools/blast?db_id=82"><i>Lygodium microphyllum</i></a></li>
+	<li><a href="/tools/blast?db_id=85"><i>Pteridium aquilinum</i></a></li>
+	<li><a href="/tools/blast?db_id=88"><i>Salvinia cucullata v2</i></a></li>
+	<li><a href="/tools/blast?db_id=91"><i>Salvinia molesta subgenome1</i></a></li>
+        <li><a href="/tools/blast?db_id=94"><i>Salvinia molesta subgenome2</i></a></li>	
         <!-- li role="separator" class="divider"></li>
         <li class="dropdown-header">Genome annotation editor</li>
         <li><a href="http://fernbase-webapollo.sgn.cornell.edu/apollo" target="_blank"><i>Fern Apollo</i></a></li -->    
